@@ -1,6 +1,6 @@
 <!DOC TYPE html >
 <head>
-	<title style="background-color:yellow">sports item</title>
+	<title>sports item</title>
 
 </head>
 <body style="font-size: 20px"font colour:black >
